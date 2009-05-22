@@ -1,0 +1,50 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProteusController", "ProteusController.vcproj", "{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{35649C48-9891-42FF-8A42-AE59E416C9C1} = {35649C48-9891-42FF-8A42-AE59E416C9C1}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wxWindows", "wxWindows-2.4.2\src\wxWindows.vcproj", "{35649C48-9891-42FF-8A42-AE59E416C9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug DLL|Win32 = Debug DLL|Win32
+		Debug Unicode DLL|Win32 = Debug Unicode DLL|Win32
+		Debug Unicode|Win32 = Debug Unicode|Win32
+		Debug|Win32 = Debug|Win32
+		Release DLL|Win32 = Release DLL|Win32
+		Release Unicode DLL|Win32 = Release Unicode DLL|Win32
+		Release Unicode|Win32 = Release Unicode|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug DLL|Win32.ActiveCfg = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug DLL|Win32.Build.0 = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug Unicode DLL|Win32.ActiveCfg = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug Unicode DLL|Win32.Build.0 = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug Unicode|Win32.ActiveCfg = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug Unicode|Win32.Build.0 = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Debug|Win32.Build.0 = Debug|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release DLL|Win32.ActiveCfg = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release DLL|Win32.Build.0 = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release Unicode DLL|Win32.ActiveCfg = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release Unicode DLL|Win32.Build.0 = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release Unicode|Win32.ActiveCfg = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release Unicode|Win32.Build.0 = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release|Win32.ActiveCfg = Release|Win32
+		{8CB240E5-9AAB-449F-A0AD-8CA4B5A713BB}.Release|Win32.Build.0 = Release|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Debug DLL|Win32.ActiveCfg = Debug DLL|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Debug Unicode DLL|Win32.ActiveCfg = Debug Unicode DLL|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Debug Unicode|Win32.ActiveCfg = Debug Unicode|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Release DLL|Win32.ActiveCfg = Release DLL|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Release Unicode DLL|Win32.ActiveCfg = Release Unicode DLL|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Release Unicode|Win32.ActiveCfg = Release Unicode|Win32
+		{35649C48-9891-42FF-8A42-AE59E416C9C1}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

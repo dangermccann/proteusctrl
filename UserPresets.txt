@@ -1,0 +1,510 @@
+cus:Perfect B3  
+Ìcus:EP 1        
+Ìcus:MMW 1       
+Ìcus:Page 3      
+Ìcus:MMW 2       
+Ìcus:Jazz 1      
+Ìcus:Highs       
+Ìcus:Page 4      
+Ìcus:EP 1        
+Ìcus:Page 2      
+Ìcus:Sine        
+Ìcus:Mutex       
+Ìcus:Square      
+Ìcus:Pulse       
+Ìcus:Orange      
+Ìcus:Popcorn     
+Ìcus:Buck        
+Ìcus:Flange      
+Ìcus:My B3       
+Ìcus:FF          
+Ìcus:Slow B3     
+Ìcus:Elec Ave    
+Ìcus:Waiting     
+Ìorg:860000000 ds
+Ìorg:860000000 df
+Ìorg:800000008 ds
+Ìorg:800000008 df
+Ìorg:808000000 ds
+Ìorg:808000000 df
+Ìorg:888000050 pr
+Ìorg:008004000   
+Ìorg:008500000   
+Ìorg:888000000   
+Ìorg:888000000 3 
+Ìorg:888000000 2 
+Ìorg:888000v/808 
+Ìorg:888000000 pr
+Ìorg:888800000   
+Ìorg:888800000 3 
+Ìorg:88880000b v3
+Ìorg:888800000vmw
+Ìorg:888888888 a 
+Ìorg:888888888vb 
+Ìorg:888888888 b 
+Ìorg:8888-8888vmw
+Ìorg:888888888vmw
+Ìorg:888811580 v 
+Ìorg:686311586   
+Ìorg:886311588   
+Ìorg:888000000   
+Ìorg:888000007   
+Ìorg:888000050   
+Ìorg:888000000 d 
+Ìorg:888000000 3 
+Ìorg:888800000 v 
+Ìorg:888888888 v 
+Ìorg:888888888 d 
+Ìorg:888888888 c 
+Ìorg:888888888 t 
+Ìorg:886311580   
+Ìorg:886311588 v 
+Ìorg:800000008   
+Ìorg:800000006 v 
+Ìorg:888000000 fx
+Ìorg:086311588 v 
+Ìorg:850700007   
+Ìorg:850700070   
+Ìorg:850008700   
+Ìorg:850000067   
+Ìorg:808700070   
+Ìorg:808000078   
+Ìorg:808006700   
+Ìorg:808067000   
+Ìorg:808880000   
+Ìorg:808800800   
+Ìorg:808088000   
+Ìorg:808850000   
+Ìorg:808000000   
+Ìorg:8888-AllOut 
+Ìorg:888-AllOut  
+Ìorg:888-AllOut 1
+Ìorg:888-AllOut 2
+Ìorg:16/1-HS     
+Ìorg:8888-AllOut 
+Ìorg:888-AllOut s
+Ìorg:888-AllOut f
+Ìorg:888-HShoe f 
+Ìorg:AllOut-888 f
+Ìorg:AllOut-8888 
+Ìorg:AllOut-888 f
+Ìorg:AllOut-8888v
+Ìcmb:Ped/Swl/Gt 1
+Ìcmb:Ped/Swl/Gt 2
+Ìcmb:Ped/Swl/Gt 3
+Ìcmb:Ped/Swl/Gt 4
+Ìcmb:Ped/Swl/Gt 5
+Ìcmb:Ped/Swl/Gt 6
+Ìcmb:Ped/Swl/Gt 7
+Ìcmb:Ped/Swl/Gt 8
+Ìcmb:Ped/Swl/Gt 9
+Ìcmb:Ped/Gt 1    
+Ìcmb:Ped/Gt 2    
+Ìcmb:Ped/Gt 3    
+Ìcmb:Ped/Gt 4    
+Ìcmb:Ped/Gt 5    
+Ìcmb:Ped/Gt 6    
+Ìcmb:Ped/Gt 7    
+Ìcmb:Ped/Gt 8    
+Ìcmb:Ped/Gt 9    
+Ìorg:Pedals 01   
+Ìorg:Pedals 02   
+Ìorg:Pedals 03   
+Ìorg:Pedals 04   
+Ìorg:Pedals 05   
+Ìorg:Pedals 06   
+Ìorg:Pedals 07   
+Ìorg:Pedals 08   
+Ìorg:Pedals 09   
+Ìorg:Pedals 10   
+Ìsfx:Stab        
+Ìsfx:Percy 1     
+Ìsfx:Percy 2     
+Ìsfx:Percy 3     
+Ìsfx:Percy 4     
+Ìsfx:Rotozone    
+Ìsfx:Volution    
+Ìsfx:DenseTexture
+Ìedg:Teeth       
+Ìwal:Strangled   
+Ìarp:Palomar     
+Ìarp:A Trip      
+Ìarp:Hollographic
+Ìpad:ARK Covet   
+Ìwal:Clavonate   
+Ìvox:Surfacing   
+Ìbpm:Tempo LFOs  
+Ìdir:888888888   
+Ìdir:888060000 3 
+Ìdir:888000001   
+Ìdir:818000005   
+Ìdir:858000000 3 
+Ìdir:888000050 3 
+Ìdir:860000240 3 
+Ìdir:888400350 2 
+Ìdir:860000000 3 
+Ìdir:860650000 3 
+Ìdir:860607000 3 
+Ìdir:870060000 3 
+Ìdir:870060500 3 
+Ìdir:808000000 3 
+Ìdir:800700000 2 
+Ìdir:800060000 2 
+Ìdir:800005000 2 
+Ìdir:800000340 3 
+Ìdir:800000060 3 
+Ìdir:800000005   
+Ìdir:800000007   
+Ìdir:008004000   
+Ìdir:008500000   
+Ìdir:008500300   
+Ìdir:000800008   
+Ìdir:000088880   
+Ìdir:000005678   
+Ìdir:880800000 2 
+Ìdir:880800000 3 
+Ìdir:880800800 3 
+Ìdir:880080000 2 
+Ìdir:808850000 2 
+Ìdir:808850000 3 
+Ìdir:808850050 3 
+Ìdir:886322588   
+Ìdir:876400566   
+Ìdir:888766000 3 
+Ìdir:888800230 3 
+Ìdir:808808008   
+Ìdir:408808004   
+Ìdir:860060320 2 
+Ìdir:058050230 3 
+Ìdir:080050320 3 
+Ìdir:865300053   
+Ìdir:868040020 3 
+Ìdir:858054030 2 
+Ìdir:870030320 3 
+Ìdir:078030020 3 
+Ìdir:088803455   
+Ìdir:038800230 3 
+Ìdir:008600030 3 
+Ìdir:808504002 2 
+Ìdir:800704002 2 
+Ìdir:848040000 2 
+Ìdir:888800560 3 
+Ìdir:888880060 3 
+Ìdir:868800000 ds
+Ìdir:868800000 df
+Ìdir:868008000 ds
+Ìdir:860808800 df
+Ìdir:886422588 fx
+Ìdir:888888888 fx
+Ìdir:808808008 fx
+Ìdir:888000000 3d
+Ìdir:888800000 3d
+Ìdir:008600030 fx
+Ìdir:860040300 fx
+Ìdir:858000000 fx
+Ìdir:888000000 mx
+Ìdir:888600000 mx
+Ìdir:800000004 fx
+Ìdir:800000008 mx
+Ìdir:867500000 mx
+Ìdir:878644302 mx
+Ìdir:886311580 mx
+Ìdir:084000020 mx
+Ìdir:824000030 mx
+Ìdir:858040030 mx
+Ìdir:888000040 mx
+Ìdir:788800240 mx
+Ìdir:888844440 mx
+Ìdir:Ped/Grt1 mx 
+Ìdir:Ped/Grt2 mx 
+Ìdir:Ped/Grt3 mx 
+Ìdir:Ped/Grt4 mx 
+Ìdir:888888000 mx
+Ìdir:888888800 mx
+Ìdir:888888888 mx
+Ìdir:888600000mfx
+Ìdir:800000008mfx
+Ìdir:886311588mfx
+Ìlnk:000080000   
+Ìlnk:000088000   
+Ìlnk:000080800   
+Ìlnk:000080080   
+Ìlnk:000080008   
+Ìlnk:000008000   
+Ìlnk:000008800   
+Ìlnk:000008080   
+Ìlnk:000008008   
+Ìlnk:000000800   
+Ìlnk:000000880   
+Ìlnk:000000808   
+Ìlnk:000000080   
+Ìlnk:000000088   
+Ìlnk:000000008   
+Ìlnk:000000888   
+Ìlnk:000088000alt
+Ìlnk:Perc9thDir a
+Ìlnk:Perc2ndDir a
+Ìlnk:Perc3rdDir a
+Ìlnk:Perc2ndDir b
+Ìlnk:Perc3rdDir b
+Ìlnk:Perc2ndDir c
+Ìlnk:Perc3rdDir c
+Ì   :B-3 default 
+Ì   :B-3 default 
+Ì   :B-3 default 
+Ìvar:1st3PlyPerc2
+Ìvar:1st3PlyPerc3
+Ìvar:1st4PlyPerc2
+Ìvar:1st4PlyPerc3
+Ìvar:Cathedral   
+Ìvar:Bi Phase    
+Ìvar:AM          
+Ìvar:All Out Dist
+Ìvar:Sweet Bees  
+Ìvar:Rocker      
+Ìvar:V-Bass Split
+Ìvar:V-Q5        
+Ìvar:Bull Runner 
+Ìvar:Rez Touch 1 
+Ìvar:Rez Touch 2 
+Ìvar:Rez Touch 3 
+Ìvar:Rez Touch 4 
+Ìvar:KingsSweep  
+Ìvar:999999999   
+Ìvar:Slivering   
+Ìvar:Sky 4       
+Ìvar:B Known     
+Ìvar:Ice B3      
+Ìvar:B a Squak   
+Ìvar:Sweeper     
+Ìvar:Slow Q      
+Ìvar:Reed Tone   
+Ìvar:3 Decaying  
+Ìvar:9 Decaying  
+Ìvar:Big Classic 
+Ìvar:Four Out    
+Ìvar:Three Sweep 
+Ìvar:888&8888 V3 
+Ìvar:Heavens B   
+Ìvar:B-Files     
+Ìvar:Mojo B      
+Ìvar:Penny Organ 
+Ìvar:1st3 Plus   
+Ìvar:1st3 Dist   
+Ìvar:1st3 mw 3   
+Ìvar:1st3-4 mw 3 
+Ìvar:1st3&4 Phase
+Ìvar:1st4 Plus   
+Ìvar:1st4 Dist   
+Ìvar:1st4 Ultra  
+Ìvar:1st 5 Phase 
+Ìvar:1st6 Slow mw
+Ìvar:1st9 Slow mw
+Ìvar:1st5PrsPlay 
+Ìvar:AllOutWhlWah
+Ìvar:Full House  
+Ìvar:Ghost B     
+Ìvar:HorsePresWah
+Ìvar:1st4+Harms  
+Ìvar:Mello Spin  
+Ìvar:Motions 1   
+Ìvar:Motions 2   
+Ìvar:Motions 3   
+Ìvar:Harmoniums  
+Ìvar:Harms All   
+Ìvar:Harm Seq 1  
+Ìvar:Harm Seq 2  
+Ìvar:To Harms    
+Ìvar:888 Gruzz   
+Ìvar:Pulse Fix   
+Ìvar:Blah Blah   
+Ìvar:Mysteria    
+Ìvar:Outer Solo  
+Ìvar:8888SlackPhz
+Ìvar:1st3 Perc9th
+Ìvar:1st4 Perc9th
+Ìvar:8888 Gruzz  
+Ìvar:All 9 Gruzz 
+Ìvar:Lo Fi       
+Ìvar:Mr Perk     
+Ìvar:Submerged   
+Ìvar:Coming Back 
+Ìvar:B Careful   
+Ìvar:X-1 Tracker 
+Ìvar:Shifter     
+Ìlnk:800000008 v 
+Ìlnk:800000000   
+Ìlnk:080000000   
+Ìlnk:008000000   
+Ìlnk:000800000   
+Ìlnk:800080000   
+Ìlnk:000008000   
+Ìlnk:000000800   
+Ìlnk:000000080   
+Ìlnk:000000008   
+Ìlnk:008800000   
+Ìlnk:008080000   
+Ìlnk:008008000   
+Ìlnk:008000800   
+Ìlnk:008000080   
+Ìlnk:008000008   
+Ìlnk:000880000   
+Ìlnk:000808000   
+Ìlnk:000800800   
+Ìlnk:000800080   
+Ìlnk:000800008   
+Ìlnk:000088000   
+Ìlnk:000080800   
+Ìlnk:000080080   
+Ìlnk:000080008   
+Ìlnk:000008800   
+Ìlnk:000008080   
+Ìlnk:000008008   
+Ìlnk:000000880   
+Ìlnk:000000808   
+Ìlnk:000000088   
+Ìlnk:000000008   
+Ìlnk:008800000 b 
+Ìlnk:Perc9th     
+Ìlnk:Perc2nd a   
+Ìlnk:Perc3rd a   
+Ìlnk:Perc2ndVel  
+Ìlnk:Perc3rdVel  
+Ìlnk:Perc2nd b   
+Ìlnk:Perc3rd b   
+Ìlnk:Perc2ndPly  
+Ìlnk:Perc3rdPly  
+Ìlnk:HarmsAllLnk1
+Ìlnk:HarmsAllLnk2
+Ìlnk:Harm Seq Lnk
+Ì   :B-3 default 
+Ì   :B-3 default 
+Ìorg:850700007   
+Ìvar:1st3PlyPerc3
+Ìvar:1st4PlyPerc2
+Ìvar:1st4PlyPerc3
+Ìvar:Cathedral   
+Ìvar:Bi Phase    
+Ìvar:AM          
+Ìvar:All Out Dist
+Ìvar:Sweet Bees  
+Ìvar:Rocker      
+Ìvar:V-Bass Split
+Ìvar:V-Q5        
+Ìvar:Bull Runner 
+Ìvar:Rez Touch 1 
+Ìvar:Rez Touch 2 
+Ìvar:Rez Touch 3 
+Ìvar:Rez Touch 4 
+Ìvar:KingsSweep  
+Ìvar:999999999   
+Ìvar:Slivering   
+Ìvar:Sky 4       
+Ìvar:B Known     
+Ìvar:Ice B3      
+Ìvar:B a Squak   
+Ìvar:Sweeper     
+Ìvar:Slow Q      
+Ìvar:Reed Tone   
+Ìvar:3 Decaying  
+Ìvar:9 Decaying  
+Ìvar:Big Classic 
+Ìvar:Four Out    
+Ìvar:Three Sweep 
+Ìvar:888&8888 V3 
+Ìvar:Heavens B   
+Ìvar:B-Files     
+Ìvar:Mojo B      
+Ìvar:Penny Organ 
+Ìvar:1st3 Plus   
+Ìvar:1st3 Dist   
+Ìvar:1st3 mw 3   
+Ìvar:1st3-4 mw 3 
+Ìvar:1st3&4 Phase
+Ìvar:1st4 Plus   
+Ìvar:1st4 Dist   
+Ìvar:1st4 Ultra  
+Ìvar:1st 5 Phase 
+Ìvar:1st6 Slow mw
+Ìvar:1st9 Slow mw
+Ìvar:1st5PrsPlay 
+Ìvar:AllOutWhlWah
+Ìvar:Full House  
+Ìvar:Ghost B     
+Ìvar:HorsePresWah
+Ìvar:1st4+Harms  
+Ìvar:Mello Spin  
+Ìvar:Motions 1   
+Ìvar:Motions 2   
+Ìvar:Motions 3   
+Ìvar:Harmoniums  
+Ìvar:Harms All   
+Ìvar:Harm Seq 1  
+Ìvar:Harm Seq 2  
+Ìvar:To Harms    
+Ìvar:888 Gruzz   
+Ìvar:Pulse Fix   
+Ìvar:Blah Blah   
+Ìvar:Mysteria    
+Ìvar:Outer Solo  
+Ìvar:8888SlackPhz
+Ìvar:1st3 Perc9th
+Ìvar:1st4 Perc9th
+Ìvar:8888 Gruzz  
+Ìvar:All 9 Gruzz 
+Ìvar:Lo Fi       
+Ìvar:Mr Perk     
+Ìvar:Submerged   
+Ìvar:Coming Back 
+Ìvar:B Careful   
+Ìvar:X-1 Tracker 
+Ìvar:Shifter     
+Ìlnk:800000008 v 
+Ìlnk:800000000   
+Ìlnk:080000000   
+Ìlnk:008000000   
+Ìlnk:000800000   
+Ìlnk:800080000   
+Ìlnk:000008000   
+Ìlnk:000000800   
+Ìlnk:000000080   
+Ìlnk:000000008   
+Ìlnk:008800000   
+Ìlnk:008080000   
+Ìlnk:008008000   
+Ìlnk:008000800   
+Ìlnk:008000080   
+Ìlnk:008000008   
+Ìlnk:000880000   
+Ìlnk:000808000   
+Ìlnk:000800800   
+Ìlnk:000800080   
+Ìlnk:000800008   
+Ìlnk:000088000   
+Ìlnk:000080800   
+Ìlnk:000080080   
+Ìlnk:000080008   
+Ìlnk:000008800   
+Ìlnk:000008080   
+Ìlnk:000008008   
+Ìlnk:000000880   
+Ìlnk:000000808   
+Ìlnk:000000088   
+Ìlnk:000000008   
+Ìlnk:008800000 b 
+Ìlnk:Perc9th     
+Ìlnk:Perc2nd a   
+Ìlnk:Perc3rd a   
+Ìlnk:Perc2ndVel  
+Ìlnk:Perc3rdVel  
+Ìlnk:Perc2nd b   
+Ìlnk:Perc3rd b   
+Ìlnk:Perc2ndPly  
+Ìlnk:Perc3rdPly  
+Ìlnk:HarmsAllLnk1
+Ìlnk:HarmsAllLnk2
+Ìlnk:Harm Seq Lnk
+Ì   :B-3 default 
+Ì   :B-3 default 
+Ì(not installed) 
+Ì
